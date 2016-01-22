@@ -3,8 +3,8 @@ title: Life Findings
 email: cbq2050@163.com
 <<<<<<< HEAD
 description: 面朝夕阳 心向玫瑰
-baseurl: ""
-#url: "http://bingquan.org"
+#baseurl: ""
+url: "http://bingquan.org"
 paginate: 10
 paginate_path: "page:num"
 # url:"http://bingquan.org"
