@@ -8,7 +8,6 @@ url: "http://bingquan.org"
 paginate: 10
 paginate_path: "/page:num"
 # url:"http://bingquan.org"
-=======
 description: 面朝夕阳 向玫瑰
 baseurl: ""
 url: "http://bingquan.org"
