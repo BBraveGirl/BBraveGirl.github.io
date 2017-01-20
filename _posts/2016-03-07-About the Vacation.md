@@ -47,6 +47,8 @@ Be confident and pretty.
 
 Holding my head high will make me strong little by little.
 
+Better Than the Gap.
+
 
 
 
