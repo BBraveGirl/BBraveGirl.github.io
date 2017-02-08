@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Working Day"
+title:  "Working Day"
 date: 2017-02-08
 categories: Diary
 excerpt: 2017
